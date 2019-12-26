@@ -6,7 +6,7 @@ Beginning with version `v2.0.0`, Notes for android will depend on Nextcloud Sing
 
 It is recommended, to perform a full synchronisation with the old version of the Notes app, before you upgrade.
 
-You have likely installed an up-to-date version of the [Files app](https://play.google.com/store/apps/details?id=com.nextcloud.client). In this case, you will have nothing more to do.
+You have likely installed an up-to-date version of the [Files app](https://play.google.com/store/apps/details?id=net.spryservers.sprycloud). In this case, you will have nothing more to do.
 In case you do not have it installed yet, you can get it for free from Play Store or F-Droid.
 
 When you upgrade the Notes app, you will be asked to select an account (which you previously configured at the files app).
