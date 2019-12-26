@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "it.niedermann.owncloud.notes"
+        applicationId "net.spryservers.sprycloud.notes"
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 56

@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notes</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">spryCloud Notes</string>
     <string name="label_all_notes">All notes</string>
     <string name="label_favorites">Favorites</string>
     <string name="action_create">New note</string>
@@ -56,16 +56,16 @@
     <!-- Snackbar Actions -->
 
     <!-- URLs -->
-    <string name="url_source" translatable="false">https://github.com/stefan-niedermann/nextcloud-notes</string>
-    <string name="url_issues" translatable="false">https://github.com/stefan-niedermann/nextcloud-notes/issues</string>
-    <string name="url_license" translatable="false">https://github.com/stefan-niedermann/nextcloud-notes/blob/master/LICENSE</string>
+    <string name="url_source" translatable="false">https://github.com/SpryServers/spryCloudNotes-android</string>
+    <string name="url_issues" translatable="false">https://github.com/SpryServers/spryCloudNotes-android/issues</string>
+    <string name="url_license" translatable="false">https://github.com/SpryServers/spryCloudNotes-android/blob/master/LICENSE</string>
     <string name="url_translations" translatable="false">https://www.transifex.com/nextcloud/nextcloud/</string>
 
     <!-- About -->
     <string name="about_version_title">Version</string>
     <string name="about_version">You are currently using &lt;strong>%1$s&lt;/strong></string>
     <string name="about_maintainer_title">Maintainer</string>
-    <string name="about_maintainer" translatable="false">&lt;a href="https://www.niedermann.it/">Niedermann IT-Dienstleistungen&lt;/a></string>
+    <string name="about_maintainer" translatable="false">&lt;a href="https://www.spryservers.net/">Spry Servers, LLC&lt;/a></string>
     <string name="about_developers_title">Developers</string>
     <string name="about_developers" translatable="false">Stefan Niedermann, Kristof Hamann, HeaDBanGer84, Felix Edelmann, Daniel Bailey</string>
     <string name="about_translators_title">Translators</string>
